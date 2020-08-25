@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "129054455337",
+    "firebase_url": "https://gagner-unilag.firebaseio.com",
+    "project_id": "gagner-unilag",
+    "storage_bucket": "gagner-unilag.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129054455337:android:4f1c62d1151f46dbd14e38",
+        "android_client_info": {
+          "package_name": "com.gagner_unilag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129054455337-tmqruq295sr75nsm4aberl3kp5lg1khv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwiRYhh7QISnjdb5wDVesdsFaQiTFMmxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129054455337-tmqruq295sr75nsm4aberl3kp5lg1khv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129054455337:android:63e398ca34ade5b2d14e38",
+        "android_client_info": {
+          "package_name": "com.gagner_unilag.referral"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129054455337-tmqruq295sr75nsm4aberl3kp5lg1khv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwiRYhh7QISnjdb5wDVesdsFaQiTFMmxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129054455337-tmqruq295sr75nsm4aberl3kp5lg1khv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
